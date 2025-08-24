@@ -17,7 +17,7 @@ const Hero: React.FC = () => {
           Budas de Gesso por Encomenda
         </h1>
         <p className="text-[#363031] text-xl font-light mb-[32px] max-md:text-lg max-sm:text-base transition-colors duration-300 ">
-          Feitos por Chambinho
+          Feito por Chambinho
         </p>
         <p className="text-[#363031] text-xl font-light mb-[50px] max-md:text-lg max-sm:text-base transition-colors duration-300 ">
           Tradição artesanal para trazer paz, harmonia e espiritualidade ao seu lar.
