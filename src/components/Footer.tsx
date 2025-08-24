@@ -33,7 +33,7 @@ const Footer: React.FC = () => {
           <FaWhatsapp size={24} />
         </a>
         <a
-          href="https://www.facebook.com"
+          href="https://www.facebook.com/alexandre.soares.79"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Facebook"
